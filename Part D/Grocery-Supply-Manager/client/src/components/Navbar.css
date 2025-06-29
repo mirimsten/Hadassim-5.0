@@ -1,0 +1,52 @@
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #004466;
+    color: white;
+    padding: 10px 20px;
+    direction: rtl;
+  }
+  
+  .navbar-left {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+  }
+  
+  .logo {
+    height: 40px;
+    margin-left: 10px;
+  }
+  
+  .store-name {
+    margin: 0;
+    font-size: 1.5em;
+  }
+  
+  .navbar-right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .user-name {
+    margin-left: 15px;
+  }
+  
+  button {
+    background-color: #f0f8ff;
+    border: 2px solid #90caf9;
+    color: #000000;
+    padding: 6px 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: 0.3s;
+    margin: 10px;
+  }
+
+  button:hover{
+    background-color: #bbdefb;
+    transform: scale(1.03);
+  }
+  
