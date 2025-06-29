@@ -39,6 +39,7 @@ In the **Part C** directory, you will find the solution for Part C:
 ## Part D - Grocery Supply Manager
 
 In the **Part D** directory, you will find the solution for Part D, which is a system developed for managing a grocery store:
+
 This solution also includes the **bonus part**, which implements an automated order management system.
 
 - **Server Side**: Directory containing files representing the server-side solution.
